@@ -6,7 +6,7 @@
 /*   By: smaccary <smaccary@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/08/01 17:43:39 by smaccary          #+#    #+#             */
-/*   Updated: 2020/08/06 16:28:37 by smaccary         ###   ########.fr       */
+/*   Updated: 2020/08/06 16:31:36 by smaccary         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 # define X11_EVENTS_H
 
 /*
-** EVENT_DEFINITIONS 
+** EVENT_DEFINITIONS
 */
 
 # define NO_EVENT_MASK				0L
@@ -87,7 +87,8 @@
 # define LAST_EVENT			36
 
 /*
-**	Key masks. Used as modifiers to GrabButton and GrabKey, results of QueryPointer,
+**	Key masks. Used as modifiers to GrabButton and GrabKey,
+	results of QueryPointer,
 **	state in various key-, mouse-, and button-related events.
 */
 
